@@ -1,0 +1,1 @@
+SELECT * FROM usuarios WHERE email LIKE '%@example.com';
